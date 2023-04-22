@@ -1,4 +1,4 @@
-public class SinglyLinkedList{
+public class SLLstructure{
     Node head;
 
     static class Node{
