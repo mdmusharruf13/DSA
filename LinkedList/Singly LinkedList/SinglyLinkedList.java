@@ -48,5 +48,4 @@ public class SinglyLinkedList{
         list.insert(566);
         list.display();
     }
-    
 }
